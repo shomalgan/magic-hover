@@ -22,7 +22,6 @@ const options = {
 const options2 = {
   max: 40,
   rotate: 1,
-
   perspective: 1000,
   scale: { x: 1, y: 1, z: 1 },
   translate: { x: 10, y: 10 }
