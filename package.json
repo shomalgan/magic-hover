@@ -1,8 +1,15 @@
 {
   "name": "magic-hover",
-  "version": "1.0.2",
-  "description": "",
+  "version": "1.0.4",
+  "description": "Transform perspective/tilt/rotate effect for nested react components.",
   "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shomalgan/magic-hover.git"
+  },
+  "keywords": [
+    "react","component","tilt","perspective","rotate","animation","mouseover"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack-dev-server --mode development",

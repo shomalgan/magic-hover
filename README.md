@@ -66,7 +66,7 @@ Create your style.css file.
 
 ## Authors
 
-* **Ahmad Esmaeilzadeh**  - [Linkdin](https://www.linkedin.com/in/ahmad-esmaeilzadeh-68802a98/)
+* **Ahmad Esmaeilzadeh**  - [Linkedin](https://www.linkedin.com/in/ahmad-esmaeilzadeh-68802a98/)
 
 
 ## License

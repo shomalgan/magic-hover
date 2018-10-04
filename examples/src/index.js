@@ -51,7 +51,7 @@ const App = () => (
         SIMPLE
       </MagicHover>
     </div>
-    <div className={'footer'}>Ahmad Esmaeilzadeh</div>
+    <div className={'footer'}>Ahmad Esmaeilzadeh-<a href="https://www.linkedin.com/in/ahmad-esmaeilzadeh-68802a98/">Linkedin</a></div>
   </div>
 );
 render(<App />, document.getElementById("root"));
