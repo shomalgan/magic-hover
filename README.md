@@ -1,6 +1,6 @@
 # Magic Hover (React Component)
 
-Transform perspective/tilt/rotate effect for nested react components.
+Transform (perspective/tilt/rotate) effect for nested react components.
 * [DEMO](https://shomalgan.github.io/magic-hover/) - See two examples
 
 
