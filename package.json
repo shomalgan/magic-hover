@@ -1,6 +1,6 @@
 {
   "name": "magic-hover",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Transform perspective/tilt/rotate effect for nested react components.",
   "main": "dist/index.js",
   "repository": {
