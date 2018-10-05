@@ -154,7 +154,6 @@ class MagicHover extends Component {
       ...this.props.style,
       ...this.state.style
     };
-    console.log(this.props);
     return (
       <div
         style={style}
